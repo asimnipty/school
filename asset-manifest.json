@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asimnipty/school.git/static/css/main.1eacaf67.css",
+    "main.js": "/asimnipty/school.git/static/js/main.1ddeada7.js",
+    "static/media/imgHome.jpg": "/asimnipty/school.git/static/media/imgHome.397b0b2f67872ebdf7eb.jpg",
+    "static/media/reg.jpeg": "/asimnipty/school.git/static/media/reg.e0942f4c97aba7954b83.jpeg",
+    "index.html": "/asimnipty/school.git/index.html",
+    "main.1eacaf67.css.map": "/asimnipty/school.git/static/css/main.1eacaf67.css.map",
+    "main.1ddeada7.js.map": "/asimnipty/school.git/static/js/main.1ddeada7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eacaf67.css",
+    "static/js/main.1ddeada7.js"
+  ]
+}
